@@ -1,5 +1,5 @@
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&lines=Passionate+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&vCenter=true&lines=Passionate+Software+Developer)](https://git.io/typing-svg)
 
 <div id="header" align="left"> 
   <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=790b7611a95eaceb161f09c503011e05d4a3660e7c194037&rid=giphy.gif&ct=s" width="200"/>
