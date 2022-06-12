@@ -24,20 +24,38 @@
   
   👨‍💻 About Me :
 
-- 🔭 I’m currently working with Promineo Tech to become Front-End Software Developer.
-- 🌴 I'm currently learning about JavaScript, HTML&CSS, Bootstrap, JQuery and React.
-- ⚡ In my free time, I solve problems and read a lot of tech articles and watch youtube videos.
+- 🔭 Front-End Software Developer focused on React & Next.js
+- 🌴 Currently learning about Solidity, Rust and building DApp's.
+- ⚡ In my free time, I love to build bunch of cool projects involved in Web 3.0
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleksamarjanov/)
  
  :hammer_and_wrench: Languages and Tools : 
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" title="redux" alt="redux" width="40">&nbsp;
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" title="nextjs" alt="nextjs" width="40">&nbsp;
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" title="mui" alt="mui" width="40">&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="bootstrap" alt="bootstrap" width="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" title="sass" alt="sass" width="40">&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40">&nbsp;
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB" alt="MongoDB" width="40">&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="mocha" alt="mocha" width="40">&nbsp;
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" title="aws" alt="aws" width="40">&nbsp;
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="vscode" alt="vscode" width="40">&nbsp;
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" title="vite" alt="vite" width="40">&nbsp;
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" title="tailwind" alt="tailwind" width="40">&nbsp;
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" title="solidty" alt="solidty" width="40">&nbsp;  
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" title="rust" alt="rust" width="40">&nbsp;
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="linux" alt="linux" width="40">&nbsp;
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" title="jquery" alt="jquery" width="40">&nbsp;
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" title="firebase" alt="firebase" width="40">&nbsp;
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" title="netlify" alt="netlify" width="40">&nbsp;
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" title="powershell" alt="powershell" width="40">&nbsp;
+   <img src="" title="" alt="" width="40">&nbsp;
+   <img src="" title="" alt="" width="40">&nbsp;
 </div>
  
 <hr> 
