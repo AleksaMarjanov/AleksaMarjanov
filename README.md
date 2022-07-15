@@ -25,7 +25,7 @@
   👨‍💻 About Me :
 
 - 🔭 Front-End Software Developer focused on React & Next.js
-- 🌴 Currently learning about Solidity, Rust and building DApp's.
+- 🌴 Currently learning about NodeJS, MongoDB, Express.
 - ⚡ In my free time, I love to build bunch of cool projects involved in Web 3.0
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleksamarjanov/)
  
