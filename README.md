@@ -14,7 +14,7 @@
     <img src="https://komarev.com/ghpvc/?username=AleksaMarjanov"> <br/>
       <h1>
        Check out my
-      <a href="https://aleksa-marjanov-portfolio.netlify.app/" target="_blank">Portfolio Website</a>
+      <a href="https://aleksamarjanov.com" target="_blank">Portfolio Website</a>
       </h1>
         <h2>
       Welcome to Aleksa Marjanov's profile!<br/>
