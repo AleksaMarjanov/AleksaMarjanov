@@ -16,6 +16,10 @@
        Check out my
       <a href="https://aleksamarjanov.com" target="_blank">Portfolio Website</a>
       </h1>
+    <h1>
+       Check out
+      <a href="https://marjanovdesignsolutions.com" target="_blank">Marjanov Design Solutions</a>
+      </h1>
         <h2>
       Welcome to Aleksa Marjanov's profile!<br/>
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
