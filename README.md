@@ -33,7 +33,7 @@
   👨‍💻 About Me :
 
 - 🔭 Front-End Software Developer focused on React & Next.js
-- 🌴 Currently learning about SQL Server, Python, Bash Scripting.
+- 🌴 Currently learning about Rust.
 - ⚡ In my free time, I love to work on cool side projects that are involved with my community.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleksamarjanov/)
  
@@ -41,6 +41,7 @@
  :hammer_and_wrench: Languages and Tools : 
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" title="redux" alt="redux" width="40">&nbsp;
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" title="nextjs" alt="nextjs" width="40">&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40">&nbsp;
