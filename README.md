@@ -12,10 +12,7 @@
   </a>
  </div>
     <img src="https://komarev.com/ghpvc/?username=AleksaMarjanov"> <br/>
-      <h1>
-       Check out my
-      <a href="https://aleksamarjanov.com" target="_blank">Portfolio Website</a>
-      </h1>
+
     <h1>
        Check out
       <a href="https://marjanovdesignsolutions.com" target="_blank">Marjanov Design Solutions</a>
